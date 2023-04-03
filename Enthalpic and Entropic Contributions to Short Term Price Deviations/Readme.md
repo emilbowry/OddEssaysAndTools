@@ -36,18 +36,18 @@ random at t>1min
 ● Investor decisions are too influenced by human factors
 ● Objective measures are used in algorithmic trading, their assumptions can be summerised
 as:
-○ Information at time t is uniform.
-○ Patterns between in small scale is unimportant because a) empirical analysis shows this is random, b)
-computationally infeasible to demonstrate a specific correlation.
-○ There is no process in a market, therefore “ There is no set of work activities that deterministically or probabilistically
-generates the output data. Financial data are a byproduct or epiphenomenon of human and social
-developments—management decisions, economic policies, and changing perceptions of value and potential future
-payoffs.”
-○ When there is small scale correlation, it is due to human factors, therefore, despite being correlated, you
-cannot make meaningful, or accurate predictions for time t, in the future. So you are unable to generate a
-machine with stable outputs.
-○ “The inputs into financial systems (i.e., financial price data) are driven by human and
-societal decisions and, therefore, are random and cannot be stable.”
+  ○ Information at time t is uniform.
+  ○ Patterns between in small scale is unimportant because a) empirical analysis shows this is random, b)
+  computationally infeasible to demonstrate a specific correlation.
+  ○ There is no process in a market, therefore “ There is no set of work activities that deterministically or probabilistically
+  generates the output data. Financial data are a byproduct or epiphenomenon of human and social
+  developments—management decisions, economic policies, and changing perceptions of value and potential future
+  payoffs.”
+  ○ When there is small scale correlation, it is due to human factors, therefore, despite being correlated, you
+  cannot make meaningful, or accurate predictions for time t, in the future. So you are unable to generate a
+  machine with stable outputs.
+  ○ “The inputs into financial systems (i.e., financial price data) are driven by human and
+  societal decisions and, therefore, are random and cannot be stable.”
 ● https://www.tandfonline.com/doi/full/10.1080/15427560.2012.
 
 
