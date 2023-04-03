@@ -1,4 +1,5 @@
 __Originally from ebowry.com (defunct)__
+
 __Inline Equations are weird in GitHub Markdown__
 
 
