@@ -1,4 +1,6 @@
 __"Does the Stratergy "Fly under the Radar" of Institutional Money Managers?" - Ernie Chan__
+
+
 __Probably nowhere near correct or rigourous, just got bored__
 
 
